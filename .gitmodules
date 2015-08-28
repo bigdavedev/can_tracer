@@ -1,0 +1,3 @@
+[submodule "external/can_network_tools"]
+	path = external/can_network_tools
+	url = git@github.com:bigdavedev/can_network_tools.git
